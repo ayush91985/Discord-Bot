@@ -3,8 +3,8 @@ import requests
 import json
 from weather import *
 
-token = 'MTE1NjMxMDE4NzA5MTcwNTk0OQ.GOYQrr.UdCymBJmX5K8tOK5TjkN5U_cF_qf5qePzWw97Y'
-api_key = '221d4acf2c0f08de4b905bc4d005742f'
+token = 'YOUR_TOKEN'
+api_key = 'YOUR_API_KEY'
 
 
 
